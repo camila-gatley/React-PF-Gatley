@@ -1,0 +1,19 @@
+ body {
+    background-color: #f5f5f5;
+ }
+
+
+ 
+ .img1 {
+    background-image: url(../../assets/images/images2323.jpg); 
+    background-size: cover;
+}
+
+.card-bodyjimp{
+    background-color: black;
+}
+
+.mundos{
+    padding-left: 20%;
+    padding-right: 20%;
+}
